@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: 'src/index.js',
-      name: 'MyReactLibrary',
+      name: 'SidebarReactPro',
       fileName: (format) => `sidebar-react-pro.${format}.js`,
     },
     rollupOptions: {
