@@ -1,8 +1,8 @@
 {
   "name": "sidebar-react-pro",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Minimal setup for React in Vite with HMR and ESLint rules.",
-  "main": "sidebar-react-pro.umd.js",
+  "main": "dist/sidebar-react-pro.umd.js",
   "module": "dist/sidebar-react-pro.es.js",
   "types": "dist/index.d.ts",
   "type": "module",
