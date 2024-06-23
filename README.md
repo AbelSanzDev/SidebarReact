@@ -10,7 +10,7 @@ Welcome to our modern and responsive sidebar solution! Designed to adapt seamles
 
 -[Demo](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
 
-## main
+## main.jsx || main.js
 
 You need the SidebarProvider in your main file for the application to work.
 
