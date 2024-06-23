@@ -1,6 +1,6 @@
 {
   "name": "sidebar-react-pro",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Welcome to our modern and responsive sidebar solution! Designed to adapt seamlessly across all devices and screen sizes, our sidebar enhances user experience by providing easy navigation and accessibility in various contexts.",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
