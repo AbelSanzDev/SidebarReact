@@ -8,7 +8,7 @@ Welcome to our modern and responsive sidebar solution! Designed to adapt seamles
 - **Sleek and Intuitive:** Combines modern aesthetics with intuitive functionality, making navigation straightforward and enjoyable.
 - **Customizable:** Tailor the sidebar to fit your application's unique design requirements effortlessly.
 
--[Demo](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
+-[Demo](sidebar-react-pro-v1.netlify.app)
 
 ## main.jsx || main.js
 
