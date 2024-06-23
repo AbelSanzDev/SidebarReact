@@ -19,7 +19,6 @@ export const SideBar = ({
   const handleChangeDirection = () => {
     setIsOpen(!isOpen);
   };
-  const [image, setImage] = useState(`bg-[url('${BgImage}')]`);
 
   return (
     <div>
@@ -57,7 +56,7 @@ export const SideBar = ({
             <div
               className={` transition-all duration-500 ${
                 isOpen ? "w-[240px]" : "lg:w-[5rem] w-[1rem]"
-              } h-svh ${BgImage === "" ? BgColor : image}   ${
+              } h-lvh ${BgImage === "" ? BgColor : BgImage}   ${
                 isOpen ? " lg:static absolute" : "lg:static absolute"
               } overflow-scroll `}
             >
