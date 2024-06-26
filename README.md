@@ -120,3 +120,22 @@ function App() {
 
 export default App;
 ```
+
+## Sidebar Close on Screen Click
+
+```javascript
+import { SideBar } from "sidebar-react-pro";
+
+function App() {
+  return (
+    <>
+      <SidebarClose>
+        {/* Clicking anywhere inside this div will close the sidebar when in phone format */}
+        {/* Add your main content here */}
+      </SidebarClose>
+    </>
+  );
+}
+
+export default App;
+```

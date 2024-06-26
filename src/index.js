@@ -6,3 +6,4 @@ export * from './components/ButtonDropDownBar.jsx';
 export * from './components/DropDownOptions.jsx';
 export * from './components/SideBar.jsx';
 export * from './components/SidebarProvider.jsx';
+export * from './components/SidebarClose.jsx';
